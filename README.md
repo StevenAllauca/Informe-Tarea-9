@@ -30,7 +30,8 @@ Específicos:
 
 Capítulo 17:
 
-![Diagrama en blanco (3)](https://user-images.githubusercontent.com/94026628/155449478-20af71f9-c8b9-4734-8d9b-b9c09d166abd.png)
+![Diagrama en blanco (4)](https://user-images.githubusercontent.com/94026628/155539365-91574524-b4af-4f01-82f9-81ed31735a0f.png)
+
 
 
 Capitulo 18:
