@@ -238,6 +238,7 @@ AB 500 Hz; Pregunta 40; e IC(máx) 20 mA, VC(máx) 2,5 V.
 4.Video: https://youtu.be/Dgq2sO36_Aw 
 
 5.Conclusiones:
+
 •Los circuitos polifásicos son aquellos que tienen más de 1 línea de alimentación, pueden estar conectados en estrella o delta, además estos circuitos tienen valores de voltaje y corriente fase, el cual se da cuando se toma una línea y tierra, por otra parte, tienen valores linea a linea, los cuales se dan cuando se toman dos lineas de alimentacion.
 
 •Al analizar los transformadores hemos podido comprender de mejor manera en qué campos se usan los sistemas trifásicos, además de tener una mejor idea a la hora de emplearlos de forma correcta y resolver cualquier tipo de operación o ejercicio. Tenemos una idea más clara sobre los transformadores y sus características fundamentales.
