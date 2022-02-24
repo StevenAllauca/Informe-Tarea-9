@@ -39,6 +39,89 @@ Capitulo 18:
 
 Resolucion de los ejercicios  del capitulo 17:
 
+PARTE 1: CIRCUITOS EN SERIE
+
+SECCIÓN 17–1 Impedancia de circuitos RLC en serie
+
+1.Cierto circuito RLC en serie tiene los siguientes valores: R = 10 Ω, C = 0.047 mF, y L = 5 mH. Determine la impedancia en forma polar. ¿Cuál es la reactancia neta? La frecuencia de la fuente es de 5 kHz.
+
+![image](https://user-images.githubusercontent.com/94026628/155524843-fe4c3ca4-2865-4509-b910-b7bd77d6d777.png)
+
+3.Si en la figura 17-59 la frecuencia del voltaje de fuente se duplica a partir del valor que producen las reactancias indicadas, ¿cómo cambia la magnitud de la impedancia?
+
+![image](https://user-images.githubusercontent.com/94026628/155525111-174b510f-fc75-46a0-a2bc-edc602374e81.png)
+
+La impedancia se duplica también, ya que es directamente proporcional a la frecuencia
+
+SECCIÓN 17–2 Análisis de circuitos RLC en serie
+
+5 Para el circuito de la figura 17-59, determine Itot, VR, VL y VC en forma polar.
+
+![image](https://user-images.githubusercontent.com/94026628/155525223-8a8481a4-95b8-4507-9983-a74b1a1e5883.png)
+
+7 Analice el circuito de la figura 17-60 para determinar lo siguiente ( f = 25 kHz):
+
+(a) Itot (b) Preal (c) Pr (d) Pa
+
+![image](https://user-images.githubusercontent.com/94026628/155525270-3289e8d8-31b7-471f-a773-241bba2cf161.png)
+
+![image](https://user-images.githubusercontent.com/94026628/155525290-e11f9d35-58e9-42bc-80ad-a8f2f6930c2c.png)
+
+SECCIÓN 17–3 Resonancia en serie
+9.Para el circuito de la figura 17-61, ¿cuál es el voltaje a través de R en condición de resonancia?
+
+![image](https://user-images.githubusercontent.com/94026628/155525366-dc980010-09ad-4e31-b45b-67cec2bf336e.png)
+
+![image](https://user-images.githubusercontent.com/94026628/155525395-4fa97fe5-2941-4734-989e-53cf7e2f039d.png)
+
+11.Cierto circuito resonante dispuesto en serie tiene una corriente mínima de 50 mA y un VL de 100 V. El voltaje aplicado es de 10 V. ¿Cuál es el valor de Z? ¿Cuáles los valores de XL y XC?
+
+![image](https://user-images.githubusercontent.com/94026628/155525436-d1a89027-7c5e-4252-a0bf-3134b37fb0aa.png)
+
+13.Para la figura 17-62, ¿cuál es el valor de la corriente en los puntos de potencia media?
+
+![image](https://user-images.githubusercontent.com/94026628/155525484-866d4b96-1953-4c8e-9090-a17080dda225.png)
+
+![image](https://user-images.githubusercontent.com/94026628/155525501-718574dd-3def-4121-8440-5b9ed2a8a38f.png)
+
+15. Diseñe un circuito en el cual las siguientes frecuencias resonantes en serie se puedan seleccionar con un conmutador:
+
+(a) 500 kHz     (b) 1000 kHz    (c) 1500 kHz     (d) 2000 kHz
+
+![image](https://user-images.githubusercontent.com/94026628/155525537-8b44565d-bc83-4957-ac2b-e8045a7f140b.png)
+
+PARTE 2: CIRCUITOS EN PARALELO
+
+SECCIÓN 17–4 Impedancia de circuitos RLC en paralelo
+
+17.¿Es capacitivo o inductivo el circuito de la figura 17-63? Explique su respuesta.
+
+![image](https://user-images.githubusercontent.com/94026628/155525721-ee77eeb6-97ad-4759-87a6-45777361beda.png)
+
+![image](https://user-images.githubusercontent.com/94026628/155525760-4418bc1b-513c-4bb3-a140-9567343326c6.png)
+
+SECCIÓN 17–5 Análisis de circuitos RLC en paralelo
+
+19.Para el circuito de la figura 17-63, determine todas las corrientes y los voltajes en forma polar.
+
+![image](https://user-images.githubusercontent.com/94026628/155525834-2decda6e-9c5f-4fa0-b0a9-586f967c180a.png)
+
+21.Cambie la frecuencia a 100 kHz en la figura 17-63 y repita el problema 19.
+
+![image](https://user-images.githubusercontent.com/94026628/155525867-cfdc4240-7be5-4907-86b2-31f37d19f5e2.png)
+
+SECCIÓN 17–6 Resonancia en paralelo
+
+23.Determine Z en condición de resonancia y fr para el circuito tanque de la figura 17-64.
+
+![image](https://user-images.githubusercontent.com/94026628/155525945-af1e24b5-d305-4b34-97ee-37123259c3ef.png)
+
+![image](https://user-images.githubusercontent.com/94026628/155525968-d7efb7c8-ec2e-4adf-b3c2-0624b7539129.png)
+
+25.Determine Preal, Pr y Pa en el circuito de la figura 17-64 en condición de resonancia.
+
+![image](https://user-images.githubusercontent.com/94026628/155526024-1c0bb1d5-b98c-466d-bed1-d1318dcf7ed5.png)
+
 
 
 27. Un Transformador que entrega Psal=48Kw tiene una perdida en el núcleo de 280 W y una perdida en el cobre de 450 W. ¿Cuál es su eficiencia a esta carga?
