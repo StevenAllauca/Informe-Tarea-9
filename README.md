@@ -16,7 +16,7 @@ Tema: Cap 17 y 18 del libro Principios Electricos de Floyd.
 
 1.Objetivos:
 
-Generales:
+ General:
 
 • Conocer todo lo relacionado con los filtros pasivos y circuitos RCL.
 
