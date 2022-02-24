@@ -10,7 +10,7 @@ Carrera: Ing. en Electrónica y Automatización
 
 NRC: 10133
 
-Docente: Ing. darwin alulema
+Docente: Ing.Darwin Alulema
 
 Tema: Cap 17 y 18 del libro Principios Electricos de Floyd.
 
@@ -29,6 +29,8 @@ Específicos:
 2.Marco Teórico:
 
 Capítulo 17:
+
+![Diagrama en blanco (3)](https://user-images.githubusercontent.com/94026628/155449478-20af71f9-c8b9-4734-8d9b-b9c09d166abd.png)
 
 
 Capitulo 18:
