@@ -235,7 +235,7 @@ AB 500 Hz; Pregunta 40; e IC(máx) 20 mA, VC(máx) 2,5 V.
 
 ![image](https://user-images.githubusercontent.com/94026628/155443588-fa3527c7-cfbb-4e14-9731-f933888bafb3.png)
 
-4.Video:
+4.Video: https://youtu.be/Dgq2sO36_Aw 
 
 5.Conclusiones:
 •Los circuitos polifásicos son aquellos que tienen más de 1 línea de alimentación, pueden estar conectados en estrella o delta, además estos circuitos tienen valores de voltaje y corriente fase, el cual se da cuando se toma una línea y tierra, por otra parte, tienen valores linea a linea, los cuales se dan cuando se toman dos lineas de alimentacion.
